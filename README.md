@@ -18,5 +18,5 @@
 [<img align="left" alt="FayyazAwwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/FayyazHAwwal1
+
 [linkedin]: https://www.linkedin.com/in/fayyaz-awwal/
