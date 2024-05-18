@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fayyaz! <br/><a href="https://www.linkedin.com/in/fayyaz-awwal/">IT/Cybersecurity Professional</a>,
+<h1>Hi, I'm Fayyaz! <br/><a href="https://www.linkedin.com/in/fayyaz-awwal/">IT/Cybersecurity Professional</a>
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
